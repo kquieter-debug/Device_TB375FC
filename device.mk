@@ -36,11 +36,17 @@ PRODUCT_PACKAGES += \
     android.hardware.health@2.1-impl \
     android.hardware.health@2.1-service
 
+# Kernel
+PRODUCT_ENABLE_UFFD_GC := true
+
 # Overlays
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
+
+# Product characteristics
+PRODUCT_CHARACTERISTICS := tablet
 
 # Rootdir
 PRODUCT_PACKAGES += \
