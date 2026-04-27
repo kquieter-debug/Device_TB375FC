@@ -5,3 +5,4 @@
 ＃＃ and some manual changes
 
 ＃＃ The LineageOS Project
+＃＃ hand on i ll full it up
