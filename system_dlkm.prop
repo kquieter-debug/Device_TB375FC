@@ -1,0 +1,5 @@
+# Miscellaneous
+ro.build.display.wtid=SW_P98300DA2_V044_WIFI_LENOVO_PERIDOTW_USR_MP
+ro.system_dlkm.build.display.wtid=SW_P98300DA2_V044_WIFI_LENOVO_PERIDOTW_USR_MP
+ro.system_dlkm.build.version.sdk_full=36.0
+

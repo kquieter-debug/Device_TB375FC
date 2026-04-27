@@ -1,0 +1,10 @@
+# Miscellaneous
+persist.settings.large_screen_opt.enabled=true
+ro.build.display.wtid=SW_P98300DA2_V044_WIFI_LENOVO_PERIDOTW_USR_MP
+ro.config.isolated_compilation_enabled=true
+ro.setupwizard.mode=ENABLED
+ro.system_ext.build.display.wtid=SW_P98300DA2_V044_WIFI_LENOVO_PERIDOTW_USR_MP
+ro.system_ext.build.version.sdk_full=36.0
+ro.vendor.config.lgsi.en.market_name=Lenovo Xiaoxin Pad Pro 12.7
+ro.vendor.config.lgsi.market_name=联想小新Pad Pro 12.7
+
